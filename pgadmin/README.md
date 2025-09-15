@@ -38,4 +38,4 @@ E la connessione al database rimarrà configurata in pgAdmin!
 
 - I dati del database PostgreSQL sono già persistenti tramite il volume `db_data`
 - Le configurazioni di pgAdmin sono ora persistenti tramite il volume `pgadmin_data`
-- La connessione al server è pre-configurata ma dovrai inserire la password del database la prima volta
+- La connessione al server è pre-configurata ma dovrai inserire la password del database la prima volta 
